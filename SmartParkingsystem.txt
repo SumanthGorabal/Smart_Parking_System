@@ -1,4 +1,10 @@
-An IoT-based car parking management system can help in efficient parking space utilization.Designing an IoT-based car parking management system using Arduino involves integrating sensors, communication modules, and actuators to monitor and control parking spaces efficiently. A simple system for a single parking space using an ultrasonic sensor to detect the presence of a vehicle and an LED to indicate the availability status. We will assume that when the distance measured by the ultrasonic sensor is less than a certain threshold, it means a car is present in the parking space.
+An IoT-based car parking management system can help in efficient parking space utilization.
+Designing an IoT-based car parking management system using Arduino involves integrating sensors, 
+communication modules, and actuators to monitor and control parking spaces efficiently. 
+A simple system for a single parking space using an ultrasonic sensor to detect the presence 
+of a vehicle and an LED to indicate the availability status. We will assume that when the 
+distance measured by the ultrasonic sensor is less than a certain threshold, it means a car 
+is present in the parking space.
 
 Components required:
 
